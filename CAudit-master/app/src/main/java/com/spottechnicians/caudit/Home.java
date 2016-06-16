@@ -25,7 +25,7 @@ public class Home extends AppCompatActivity {
         setContentView(R.layout.activity_home);
         dbHelper=new DbHelper(this);
 
-
+        //After uploading to github
 
       //  Toast.makeText(this,s,Toast.LENGTH_LONG).show();
 
